@@ -1,0 +1,18 @@
+.bg{
+	background: radial-gradient(circle at top left, #00fff3, #80239fd4);
+}
+.styleinput{
+	background-color: transparent;
+	border: none;
+	border-bottom: 1px solid #3800546b;
+	width: 90%;
+}
+.styleform{
+	padding-bottom: 50px;
+	background: #f00d8b59;
+}
+.stylelabel{
+	margin-left: 450px;
+	padding: 20px;
+
+}
